@@ -1,6 +1,8 @@
 Unity Hub와 Unity 2018.4.21f1 버전이 설치 되있어야 함
 
+우측 위 Code 라 적힌 초록색 버튼 클릭후 Download ZIP 클릭
 
+다운로드 받은 압축파일 해제 후 Unity Hub 실행
 
 프로젝트 탭에서 추가 클릭
 
